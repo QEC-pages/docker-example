@@ -1,0 +1,1 @@
+Test folder: file in this folder will be synchronized between the container and the system
